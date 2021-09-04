@@ -1,0 +1,11 @@
+-- Check for working CXX compiler: C:/Users/17104/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+-- Check for working CXX compiler: C:/Users/17104/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- ANDROID_ABI=arm64-v8a
+-- Found OpenCV: D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk (found version "4.4.0") found components:  opencv_java 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/samples/face-detection/.cxx/cmake/debug/arm64-v8a

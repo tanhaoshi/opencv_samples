@@ -1,0 +1,281 @@
+
+{
+	"buildFiles" : 
+	[
+		"D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\17104\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\.cxx\\cmake\\debug\\x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"IlmImf-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "IlmImf",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/libIlmImf.a",
+			"toolchain" : "1002315989"
+		},
+		"ade-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "ade",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/libade.a",
+			"toolchain" : "1002315989"
+		},
+		"ippicv-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "ippicv",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/libippicv.a",
+			"toolchain" : "1002315989"
+		},
+		"ippiw-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "ippiw",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/libippiw.a",
+			"toolchain" : "1002315989"
+		},
+		"ittnotify-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "ittnotify",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/libittnotify.a",
+			"toolchain" : "1002315989"
+		},
+		"libcpufeatures-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "libcpufeatures",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/libcpufeatures.a",
+			"toolchain" : "1002315989"
+		},
+		"libjasper-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "libjasper",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/liblibjasper.a",
+			"toolchain" : "1002315989"
+		},
+		"libjpeg-turbo-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "libjpeg-turbo",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/liblibjpeg-turbo.a",
+			"toolchain" : "1002315989"
+		},
+		"libpng-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "libpng",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/liblibpng.a",
+			"toolchain" : "1002315989"
+		},
+		"libprotobuf-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "libprotobuf",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/liblibprotobuf.a",
+			"toolchain" : "1002315989"
+		},
+		"libtiff-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "libtiff",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/liblibtiff.a",
+			"toolchain" : "1002315989"
+		},
+		"libwebp-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "libwebp",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/liblibwebp.a",
+			"toolchain" : "1002315989"
+		},
+		"mixed_sample-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "mixed_sample",
+			"buildCommand" : "C:\\Users\\17104\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\.cxx\\cmake\\debug\\x86_64 --target mixed_sample",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/17104/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/17104/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmixed_sample_EXPORTS -ID:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni -isystem D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\sdk\\native\\jni\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni/jni_part.cpp",
+					"workingDirectory" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/cmake/debug/x86_64"
+				}
+			],
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/build/intermediates/cmake/debug/obj/x86_64/libmixed_sample.so",
+			"toolchain" : "1002315989"
+		},
+		"opencv_calib3d-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_calib3d",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_calib3d.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_core-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_core",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_core.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_dnn-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_dnn",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_dnn.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_features2d-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_features2d",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_features2d.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_flann-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_flann",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_flann.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_gapi-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_gapi",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_gapi.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_highgui-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_highgui",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_highgui.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_imgcodecs-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_imgcodecs",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_imgcodecs.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_imgproc-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_imgproc",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_imgproc.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_java-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_java",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/libs/x86_64/libopencv_java4.so",
+			"toolchain" : "1002315989"
+		},
+		"opencv_ml-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_ml",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_ml.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_objdetect-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_objdetect",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_objdetect.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_photo-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_photo",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_photo.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_stitching-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_stitching",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_stitching.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_video-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_video",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_video.a",
+			"toolchain" : "1002315989"
+		},
+		"opencv_videoio-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "opencv_videoio",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/staticlibs/x86_64/libopencv_videoio.a",
+			"toolchain" : "1002315989"
+		},
+		"quirc-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "quirc",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/libquirc.a",
+			"toolchain" : "1002315989"
+		},
+		"tbb-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "tbb",
+			"buildType" : "debug",
+			"output" : "D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/libtbb.a",
+			"toolchain" : "1002315989"
+		}
+	},
+	"toolchains" : 
+	{
+		"1002315989" : 
+		{
+			"cCompilerExecutable" : "C:/Users/17104/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/17104/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

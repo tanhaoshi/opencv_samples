@@ -1,0 +1,3 @@
+D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/cmake/debug/x86_64/CMakeFiles/mixed_sample.dir
+D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

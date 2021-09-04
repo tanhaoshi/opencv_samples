@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.opencv.samples.tutorial3"
+4    android:versionCode="301"
+5    android:versionName="3.01" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml
+10
+11    <supports-screens
+11-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:21:5-25:51
+12        android:anyDensity="true"
+12-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:25:23-48
+13        android:largeScreens="true"
+13-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:24:23-50
+14        android:normalScreens="true"
+14-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:23:23-51
+15        android:resizeable="true"
+15-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:21:23-48
+16        android:smallScreens="true" />
+16-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:22:23-50
+17
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:27:5-64
+18-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:27:22-62
+19
+20    <uses-feature
+20-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:29:5-84
+21        android:name="android.hardware.camera"
+21-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:29:19-57
+22        android:required="false" />
+22-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:29:58-82
+23    <uses-feature
+23-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:30:5-94
+24        android:name="android.hardware.camera.autofocus"
+24-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:30:19-67
+25        android:required="false" />
+25-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:30:68-92
+26    <uses-feature
+26-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:31:5-90
+27        android:name="android.hardware.camera.front"
+27-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:31:19-63
+28        android:required="false" />
+28-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:31:64-88
+29    <uses-feature
+29-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:32:5-100
+30        android:name="android.hardware.camera.front.autofocus"
+30-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:32:19-73
+31        android:required="false" />
+31-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:32:74-98
+32
+33    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+33-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:33:5-81
+33-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:33:22-78
+34
+35    <application
+35-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:6:5-19:19
+36        android:debuggable="true"
+37        android:icon="@drawable/icon"
+37-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:8:9-38
+38        android:label="@string/app_name" >
+38-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:7:9-41
+39        <activity
+39-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:10:9-18:20
+40            android:name="org.opencv.samples.tutorial3.Tutorial3Activity"
+40-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:10:19-51
+41            android:configChanges="keyboardHidden|orientation"
+41-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:13:19-69
+42            android:label="@string/app_name"
+42-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:11:19-51
+43            android:screenOrientation="landscape" >
+43-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:12:19-56
+44            <intent-filter>
+44-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:14:13-17:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:15:17-69
+45-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:15:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:16:17-77
+47-->D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\tutorial-3-cameracontrol\AndroidManifest.xml:16:27-74
+48            </intent-filter>
+49        </activity>
+50    </application>
+51
+52</manifest>

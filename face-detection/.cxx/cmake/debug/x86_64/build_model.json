@@ -1,0 +1,81 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples",
+      "sdkFolder": "C:\\Users\\17104\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [
+        "armeabi-v7a",
+        "x86_64",
+        "x86",
+        "arm64-v8a"
+      ],
+      "intermediatesFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\build\\intermediates",
+      "gradleModulePathName": ":face-detection",
+      "moduleRootFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection",
+      "makeFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\.cxx",
+      "cxxFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx",
+      "ndkFolder": "C:\\Users\\17104\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DOpenCV_DIR\u003dD:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\sdk/native/jni",
+      "-DANDROID_TOOLCHAIN\u003dclang",
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [
+      "detection_based_tracker"
+    ]
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cmake\\debug\\x86_64",
+  "jsonFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cmake\\debug\\x86_64\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cxx\\debug\\x86_64",
+  "objFolder": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\build\\intermediates\\cmake\\debug\\obj\\x86_64",
+  "buildCommandFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cmake\\debug\\x86_64\\build_command.txt",
+  "buildOutputFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cmake\\debug\\x86_64\\build_output.txt",
+  "modelOutputFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cmake\\debug\\x86_64\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cxx\\debug\\x86_64\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cxx\\debug\\x86_64\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cxx\\debug\\x86_64\\build_generation_state.json",
+    "cacheKeyFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cxx\\debug\\x86_64\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cxx\\debug\\x86_64\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cxx\\debug\\x86_64\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cxx\\debug\\x86_64\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cmake\\debug\\x86_64\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\opencv_source\\opencv-4.4.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\cmake\\debug\\x86_64\\compile_commands.json"
+}

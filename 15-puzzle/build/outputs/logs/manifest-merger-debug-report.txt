@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-39:12
+MERGED from [:opencv] D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\2ad9bfadafd430f8dbad1412b3cf8d16\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\2c2719b22890890f5ae6a51c577cf1e6\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\07ec705aed5324b71d72c4292188ba58\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\1334fe890717dc3473dc186f28449ae9\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\51316cf1e90ac9ba1040508849baa486\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\eef6aeb86cd4abc591f340e9ebffbc25\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\ad62f407f0f82b0a54b4d08f147faaa7\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\9e47cc7119ced64ae9076bee16f6f474\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\383ad2c48ccebde577332ae7ce906c52\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\aabad928b9dfc3bb4f99a8e919d7ca2a\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\d777efb7f005f4061664eb152e4e4155\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\378cad5251b7bf9290fb2bb3c5781307\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\a7cb32bf2478ccd8ed752b2b8a998b8f\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\11902811a1e20f50ecac97c485be82b1\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\f993d148e999fdf956a4937ae88c6ee1\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\16e10458eb3d86dce547be2d4dce65a9\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\a4cce78b48541915b29a77ed3286103c\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\d2514de441a98c98e63d23342e697e1c\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\587d4b4ba2bee95fa70ebde7fdef163e\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\6649028815494b2aeabe1bc5c2405c56\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\5e2b7336b65fd01a7d1759b63ce95e82\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\bde0a02c7eaeb68bbbbe9daba8b5a4d3\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\80a25cd447b6f67296c411c5c16059bb\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\a9f3caa807bbac705342bf916bae7e9b\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\5e443312ff8e9912636de42e05adc2a8\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:3:5-42
+		INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:8:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:10:5-12:36
+	android:required
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:11:9-57
+uses-feature#android.hardware.camera.front
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:14:9-53
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:17:9-63
+application
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:20:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\f993d148e999fdf956a4937ae88c6ee1\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\f993d148e999fdf956a4937ae88c6ee1\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:21:9-38
+activity#org.opencv.samples.puzzle15.MainActivity
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:24:9-30:20
+	android:theme
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:24:48-104
+	android:name
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:28:27-74
+activity#org.opencv.samples.puzzle15.Puzzle15Activity
+ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:31:9-36:20
+	android:screenOrientation
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:35:13-50
+	android:label
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:34:13-45
+	android:configChanges
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:32:13-45
+uses-sdk
+INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+MERGED from [:opencv] D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:opencv] D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\2ad9bfadafd430f8dbad1412b3cf8d16\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\2ad9bfadafd430f8dbad1412b3cf8d16\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\2c2719b22890890f5ae6a51c577cf1e6\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\2c2719b22890890f5ae6a51c577cf1e6\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\07ec705aed5324b71d72c4292188ba58\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\07ec705aed5324b71d72c4292188ba58\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\1334fe890717dc3473dc186f28449ae9\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\1334fe890717dc3473dc186f28449ae9\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\51316cf1e90ac9ba1040508849baa486\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\51316cf1e90ac9ba1040508849baa486\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\eef6aeb86cd4abc591f340e9ebffbc25\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\eef6aeb86cd4abc591f340e9ebffbc25\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\ad62f407f0f82b0a54b4d08f147faaa7\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\ad62f407f0f82b0a54b4d08f147faaa7\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\9e47cc7119ced64ae9076bee16f6f474\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\9e47cc7119ced64ae9076bee16f6f474\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\383ad2c48ccebde577332ae7ce906c52\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\383ad2c48ccebde577332ae7ce906c52\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\aabad928b9dfc3bb4f99a8e919d7ca2a\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\aabad928b9dfc3bb4f99a8e919d7ca2a\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\d777efb7f005f4061664eb152e4e4155\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\d777efb7f005f4061664eb152e4e4155\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\378cad5251b7bf9290fb2bb3c5781307\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\378cad5251b7bf9290fb2bb3c5781307\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\a7cb32bf2478ccd8ed752b2b8a998b8f\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\a7cb32bf2478ccd8ed752b2b8a998b8f\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\11902811a1e20f50ecac97c485be82b1\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\11902811a1e20f50ecac97c485be82b1\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\f993d148e999fdf956a4937ae88c6ee1\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\f993d148e999fdf956a4937ae88c6ee1\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\16e10458eb3d86dce547be2d4dce65a9\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\16e10458eb3d86dce547be2d4dce65a9\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\a4cce78b48541915b29a77ed3286103c\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\a4cce78b48541915b29a77ed3286103c\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\d2514de441a98c98e63d23342e697e1c\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\d2514de441a98c98e63d23342e697e1c\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\587d4b4ba2bee95fa70ebde7fdef163e\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\587d4b4ba2bee95fa70ebde7fdef163e\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\6649028815494b2aeabe1bc5c2405c56\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\6649028815494b2aeabe1bc5c2405c56\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\5e2b7336b65fd01a7d1759b63ce95e82\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\5e2b7336b65fd01a7d1759b63ce95e82\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\bde0a02c7eaeb68bbbbe9daba8b5a4d3\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\bde0a02c7eaeb68bbbbe9daba8b5a4d3\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\80a25cd447b6f67296c411c5c16059bb\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\80a25cd447b6f67296c411c5c16059bb\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\a9f3caa807bbac705342bf916bae7e9b\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\a9f3caa807bbac705342bf916bae7e9b\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\5e443312ff8e9912636de42e05adc2a8\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\17104\.gradle\wrapper\dists\gradle-4.1.0-all\caches\transforms-2\files-2.1\5e443312ff8e9912636de42e05adc2a8\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		ADDED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		INJECTED from D:\opencv_source\opencv-4.4.0\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml

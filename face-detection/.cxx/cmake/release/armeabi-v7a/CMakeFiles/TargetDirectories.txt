@@ -1,0 +1,3 @@
+D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/samples/face-detection/.cxx/cmake/release/armeabi-v7a/CMakeFiles/detection_based_tracker.dir
+D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/samples/face-detection/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/opencv_source/opencv-4.4.0/OpenCV-android-sdk/samples/face-detection/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
